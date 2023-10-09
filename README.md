@@ -45,10 +45,7 @@ Path planning is a fundamental problem in robotics and autonomous systems.
 
 ### Installation
 
-1. Clone the repository:
+. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/path-planning.git
-
-pip install matplotlib numpy pandas tracemalloc
-
+   git clone https://github.com/yourusername/path-planning.git  -- pip install matplotlib numpy pandas tracemalloc
